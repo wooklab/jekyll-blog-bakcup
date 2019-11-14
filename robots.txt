@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /about
+
+Sitemap: https://wooklab.github.io/atom.xml
