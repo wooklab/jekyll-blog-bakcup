@@ -1,18 +1,15 @@
 ---
 layout: post
 title: ElasticSearch Backup/Restore
-description: ElasticSearch를 처음에 접하게 되면 막막한 부분이 있는데, 필자 역시 막막했던 것들 중 한 부분을 공유하고자 한다.
+date: 2018-10-11 00:00:00
 categories: 
  - BigData
  - ElasticStack
 tags: 
  - ElasticSearch
 ---
-
-
-
+![ElasticSearch]({{ site.url }}/img/es-logo.gif)
 # 개요
-
 ElasticSearch를 처음에 접하게 되면 막막한 부분이 있는데, 필자 역시 막막했던 것들 중 한 부분을 공유하고자 한다.<br/>
 **ElasticSearch 백업/복구** : 어떤식으로 진행을 해야할지 간단하게 알아보자. '백업'과 '복구' 작업을 하기위해 먼저 선행되어야 할 작업이 있다. 아래 내용을 먼저 살펴보자.
 <!-- more -->
